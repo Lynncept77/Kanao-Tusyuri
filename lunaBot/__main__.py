@@ -72,34 +72,29 @@ def get_readable_time(seconds: int) -> str:
 
     return ping_time
 
-LUNA_IMG = "https://telegra.ph/file/ecb9b93a96b0b1a0c4c1b.jpg"
+KANAO_IMG = "https://telegra.ph/file/08f5143e09a84031ba2ab.jpg"
 
 PM_START_TEXT = """
 ╭──────────────
-**Hey**🤞 **{message.from_user.first_name }** \n\n __ I am AKSHI🥀🍃[☘️](https://telegra.ph/file/ecb9b93a96b0b1a0c4c1b.jpg)
-**I am an Advanced Group Manager Bot, With Lots of Cool Features❤️.**
+**Hey**🤞 **{message.from_user.first_name }** \n\n __ I am Kanao Tsuyuri[🌸](https://telegra.ph/file/a3469f25661c1cce7e3da.mp4)
+**I am an Advanced Group Manager Bot, for limited groups.**
 `For More Information Use the Button Below or Send` /help 
 ╰──────────────
 """
 
 buttons = [
-        [
-        InlineKeyboardButton(
-            text="𝘈𝘥𝘥 𝘮𝘦 𝘯𝘰𝘸➕", url="t.me/Miss_AkshiV1_Bot?startgroup=true"),
-    ],
-    [
-        InlineKeyboardButton(text="𝘔𝘪𝘴𝘴 𝘈𝘬𝘴𝘩𝘪 𝘭𝘰𝘨𝘴❤️", url=f"https://t.me/Miss_AkshiV1_logs"),
-    ],
+        
+    
     [
         InlineKeyboardButton(
-            text="𝘜𝘱𝘥𝘢𝘵𝘦𝘴🤞", url=f"https://t.me/Miss_AkshiV1_Updates"
+            text="Updates💮", url=f"https://t.me/Tanjirou_Updates"
         ),
         InlineKeyboardButton(
-            text="𝘚𝘶𝘱𝘱𝘰𝘳𝘵😍", url=f"https://t.me/Miss_AkshiV1_Support"
+            text="Support💮", url=f"https://t.me/Tanji_kamado_Support"
         ),
     ],
     [
-        InlineKeyboardButton(text="𝘏𝘦𝘭𝘱 𝘢𝘯𝘥 𝘊𝘮𝘥𝘴❓", callback_data="help_back"
+        InlineKeyboardButton(text="Help And Cmds❓", callback_data="help_back"
         ),
     ],
 ]
@@ -117,8 +112,8 @@ DONATE_STRING = """Heya, glad to hear you want to donate!
 
 
 
-DONATE_STRING = """Hehe, senang mendengar Anda ingin menyumbang!
- [klick disini](https://t.me/zeinzo_1) ❤️
+DONATE_STRING = """Konnichiwa!
+ [klick disini](https://t.me/Lynncept77) ❤️
 """
 
 IMPORTED = {}
