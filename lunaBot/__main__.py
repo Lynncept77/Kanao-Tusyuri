@@ -113,7 +113,7 @@ DONATE_STRING = """Heya, glad to hear you want to donate!
 
 
 DONATE_STRING = """Konnichiwa!
- [klick disini](https://t.me/Lynncept77) ❤️
+ [Tanjirou](https://t.me/Lynncept77) ❤️
 """
 
 IMPORTED = {}
@@ -590,7 +590,7 @@ def luna_about_callback(update, context):
                 [
                   [
                      InlineKeyboardButton(text="Back", callback_data="luna_puqi"),
-                     InlineKeyboardButton(text="☎️ Support", url=f"https://t.me/lunaXresso"),
+                     InlineKeyboardButton(text="☎️ Support", url=f"https://t.me/Tanji_kamado_support"),
                   ]
                 ]
             ),
