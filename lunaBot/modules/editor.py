@@ -453,5 +453,5 @@ Miss Akshi have some advanced image editing tools inbuilt
 Bright, Circle, RemBG, Blur, Border, Flip, Glitch, Sticker maker and more
 - /edit [reply to image]: Open the image editor
 - /rmbg [REPLY]: Revove BG of replied image or sticker.
-*Special credits to* @Professer_Ashu
+
 """
