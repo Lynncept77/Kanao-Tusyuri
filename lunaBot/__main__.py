@@ -76,7 +76,7 @@ KANAO_IMG = "https://telegra.ph/file/08f5143e09a84031ba2ab.jpg"
 
 PM_START_TEXT = """
 ╭──────────────
-**Hey**🤞 **{message.from_user.first_name}** \n\n __ I am Kanao Tsuyuri[🌸](https://telegra.ph/file/a3469f25661c1cce7e3da.mp4)
+**Hey**🤞 I am Kanao Tsuyuri[🌸](https://telegra.ph/file/a3469f25661c1cce7e3da.mp4)
 **I am an Advanced Group Manager Bot, for limited groups.**
 `For More Information Use the Button Below or Send` /help 
 ╰──────────────
